@@ -328,7 +328,7 @@ a{
   .project-card {
     width: 90%; /* The card takes up 90% of the available width */
     height: 550px; /* The card has a fixed height of 550px */
-    background-image: url(./images/projects/Project1.png); /* Sets a background image */
+    background-image: url(./Images/projects/Project1.png); /* Sets a background image */
     background-size: cover; /* Ensures the background image covers the entire card */
     /* background-repeat: no-repeat; */ /* (Commented out) Ensures the background doesn't repeat */
     position: relative; /* Positions the card relative to its normal position, needed for absolute positioning of pseudo-elements */
@@ -462,19 +462,19 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./Images/projects/Project1.png);
   }
 
   #project2{
     margin-left:120px; /* ek project-card ko piche krne ke lie */
-    background-image: url(./images/projects/Project2.png);
+    background-image: url(./Images/projects/Project2.png);
   }
   #project3{
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./Images/projects/Project3.png);
   }
   #project4{
     margin-left:120px;  /* ek project-card ko piche krne ke lie */
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./Images/projects/Project4.png);
   }
 
   @media (max-width:1300px) {  /* 1300 px se kam agr hua to ye prop use hogi*/
